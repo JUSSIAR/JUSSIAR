@@ -6,7 +6,9 @@
   <tr>
     <td>
       VK: https://vk.com/jussiar
+    </br>
       Codeforces: https://codeforces.com/profile/JUSSIAR
+    </br>
       Telegram: @JUSSIAR
     </td>
     <td>
