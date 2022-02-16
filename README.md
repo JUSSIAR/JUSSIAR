@@ -1,8 +1,8 @@
 # Hello world👋 
 
 ### VK: https://vk.com/jussiar
-### Codeforces: https://codeforces.com/profile/JUSSIAR
 ### Telegram: @JUSSIAR
+### Codeforces: https://codeforces.com/profile/JUSSIAR
 
 <img 
      width="70%"
