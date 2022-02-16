@@ -1,7 +1,9 @@
-# Hello world👋 
+# Hello world👋
 
-### VK: https://vk.com/jussiar
+`I'm JavaScript/TypeScript Sowtware Developer`
+
 ### Telegram: @JUSSIAR
+### VK: https://vk.com/jussiar
 ### Codeforces: https://codeforces.com/profile/JUSSIAR
 
 <img 
