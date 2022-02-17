@@ -1,6 +1,6 @@
 # Hello world👋
 
-`I'm JavaScript/TypeScript Sowtware Developer`
+`I'm JavaScript/TypeScript Software Developer`
 
 ### Telegram: @JUSSIAR
 ### VK: https://vk.com/jussiar
