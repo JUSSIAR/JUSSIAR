@@ -5,6 +5,6 @@
 ### Connect me [here](./connection.md)!
 
 <img 
-     width="60%"
+     width="66%"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUSSIAR&count_private=true&langs_count=10&hide=html&layout=compact&hide_border=true&hide_title=true&theme=chartreuse-dark"
 />
