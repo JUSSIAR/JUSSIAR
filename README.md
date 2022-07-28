@@ -2,10 +2,7 @@
 
 `I'm JavaScript/TypeScript Software Engineer`
 
-#### Telegram: @JUSSIAR
-#### VK: https://vk.com/jussiar
-#### Codeforces: https://codeforces.com/profile/JUSSIAR
-#### Email: klokov.stas.0222@gmail.com
+### Connect me [here](./connection.md)!
 
 <img 
      width="60%"
