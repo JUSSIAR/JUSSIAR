@@ -9,3 +9,5 @@
 - **[Email](mailto:klokov.stas.0222@gmail.com)** *(addr: klokov.stas.0222@gmail.com)*
 
 - **[Codeforces](https://codeforces.com/profile/JUSSIAR)** *(link: https://codeforces.com/profile/JUSSIAR)*
+
+- **[hh.ru](https://hh.ru/applicant/resumes/view?resume=e92f2ee7ff09a9edff0039ed1f38766c594e4b)** *(link: https://hh.ru/applicant/resumes/view?resume=e92f2ee7ff09a9edff0039ed1f38766c594e4b)*
