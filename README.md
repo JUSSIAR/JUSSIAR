@@ -12,7 +12,7 @@
 <td>
     <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUSSIAR&count_private=true&langs_count=10&hide=html&layout=compact&hide_title=true&theme=chartreuse-dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUSSIAR&count_private=true&langs_count=8&hide=html&layout=compact&hide_title=true&theme=chartreuse-dark"
     >
 </td>
 <td>
