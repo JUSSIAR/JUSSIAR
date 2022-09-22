@@ -23,7 +23,7 @@ More connection sources [here](./connection.md)!
 
 <table style="width: 80%; border-radius: 10px" >
 <th colspan="2" style="font-size: 48px">
-   📈 Here is something about my life in github platform 📈
+   Here is something about my life on github platform 📈
 </th>
 <tr>
 <td>
