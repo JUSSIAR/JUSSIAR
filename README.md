@@ -1,6 +1,6 @@
 ## Hello world👋
 
-`IT entrepreneur` & `Software Engineer` & `Educational course creator`
+`IT entrepreneur` & `Software Engineer` & `Educational courses creator`
 
 ### Fast connect
 
