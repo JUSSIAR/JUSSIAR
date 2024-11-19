@@ -2,6 +2,10 @@
 
 `IT entrepreneur` & `Software Engineer` & `Educational courses creator`
 
+### CV
+
+[Link to my CV 💼 🇨 🇻](https://disk.yandex.ru/i/nUoTuJLsNOOU5g)
+
 ### Fast connect
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/JUSSIAR)
