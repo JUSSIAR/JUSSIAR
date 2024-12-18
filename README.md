@@ -17,10 +17,11 @@ More connection sources [here](./connection.md)
 
 ### General hard skills
 
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/DevOps-docker-informational?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/DevOps-k8s-informational?style=flat&logo=kubernetes&logoColor=white)
 
