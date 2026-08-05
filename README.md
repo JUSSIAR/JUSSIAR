@@ -10,6 +10,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/JUSSIAR)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/jussiar)
 
+[More ...](./connection.md)
+
 ### General hard skills
 
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white)
