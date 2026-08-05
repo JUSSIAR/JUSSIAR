@@ -4,7 +4,7 @@
 
 - **[VK](https://vk.com/jussiar)** *(link: https://vk.com/jussiar)*
 
-- **[LinkedIn](https://www.linkedin.com/in/stanislav-klokov-a4bbbb246/)** *(link: https://www.linkedin.com/in/stanislav-klokov-a4bbbb246/)*
+- **[LinkedIn](https://www.linkedin.com/in/jussiar/)** *(link: https://www.linkedin.com/in/jussiar/)*
 
 - **[Email](mailto:klokov.stas.0222@gmail.com)** *(addr: klokov.stas.0222@gmail.com)*
 
