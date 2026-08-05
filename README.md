@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/DevOps-Terraform-informational?style=flat&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/DevOps-Pulumi-informational?style=flat&logo=pulumi&logoColor=white)
 ![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/DB-Valkey-informational?style=flat&logo=valkey&logoColor=white)
+![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/DB-ClickHouse-informational?style=flat&logo=clickhouse&logoColor=white)
 ![](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white)
 ![](https://img.shields.io/badge/Messaging-NATS-informational?style=flat&logo=natsdotio&logoColor=white)
